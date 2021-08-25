@@ -1,1 +1,1 @@
-# jenny-pizza
+# pizza
